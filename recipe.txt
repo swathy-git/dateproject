@@ -3,3 +3,5 @@ chicken
 fish
 egg
 bottlegourd
+
+paneer
